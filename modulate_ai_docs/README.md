@@ -10,5 +10,4 @@ Welcome to Modulate's Velma-2 API!  Velma-2 is a voice transcription and underst
 ## Getting Started:
 
 * Each API has an associated .yaml file in this directory with an OpenAPI spec for the endpoint.  There are also python test files for running audio through the APIs, which can be used as a reference.
-* APIs have 100 hours of free usage included - reach out to Carter on the hackathon discord - username `carterhuffman8385` - for an API key!
-* Please reach out to `carterhuffman8385` in Discord, or in the #modulate-ai channel, if you have any questions!
+* APIs have 100 hours of free usage included
