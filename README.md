@@ -1,3 +1,14 @@
+# Tutor
+
+Tutoring agent that leverages voice analysis of a student's confidence on a topic to adjust instruction & enhance the lesson plan over time.
+
+"T-AI"
+
+## Background
+Attended a [Hackathon](https://luma.com/nychack?tk=lwTlNJ) in NYC in Feb 2024 at Datadog's office. The theme was "self-improving agents", there were a handful of corporate sponsors. 
+
+Submitted something to the competition on [Devpost](https://devpost.com/software/tutor-woiv76).
+
 ## Inspiration
 There are many other dimensions to learning besides simply answering questions correctly. Confidence vs uncertainty is a major one, but there are other elements of _how_ a student answers a question that meaningfully inform the tutor's approach. This dynamic is especially apparent when learning via the [Feynman Technique](https://fs.blog/feynman-technique/), where a student essentially tries to progressively teach a concept to a 12-year-old. 
 
@@ -10,21 +21,21 @@ The correctness of the student's answer is evaluated by a reasoning LLM looking 
 
 The supervising human instructor can consider these 2 dimensions of learning when reviewing a student's progress. The more interaction with the tutoring agent, the more aggregate confidence there is in the student's level of understanding.
 
-## How we built it
-FastAPI (Python) backend
-Next.js frontend
-SQLite (aiosqlite) DB
-Modulate Velma (voice analysis)
-Google Gemini API -- gemini-2.5-flash (reasoning/inference)
-Lightdash (analytics)
+## How I built it
+- FastAPI (Python) backend
+- Next.js frontend
+- SQLite (aiosqlite) DB
+- Modulate Velma (voice analysis)
+- Google Gemini API -- gemini-2.5-flash (reasoning/inference)
+- Lightdash (analytics)
 
-## Challenges we ran into
+## Challenges
 Latency, simplicity of UX
 
-## Accomplishments that we're proud of
+## Accomplishments
 Novelty? 
 
-## What we learned
+## Learning
 Having a clear vision for the medium and integration with tools helps shape process.
 
 ## What's next for Tutor
