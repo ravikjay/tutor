@@ -4,6 +4,18 @@ Tutoring agent that leverages voice analysis of a student's confidence on a topi
 
 "T-AI"
 
+<img width="630" height="796" alt="image" src="https://github.com/user-attachments/assets/8c7d788c-c0da-445b-80f2-0a9047a4e088" />
+
+### Student UX
+
+<img width="682" height="615" alt="image" src="https://github.com/user-attachments/assets/9b951e34-a50c-46c4-ba6e-8e8cd940057f" />
+
+### Instructor Dashboard
+
+<img width="1073" height="1046" alt="image" src="https://github.com/user-attachments/assets/3767f77a-2156-43c3-badd-9aa55023e76e" />
+<img width="1055" height="362" alt="image" src="https://github.com/user-attachments/assets/728808ce-7d52-41e1-9e79-55001731ea92" />
+
+
 ## Background
 Attended a [Hackathon](https://luma.com/nychack?tk=lwTlNJ) in NYC in Feb 2024 at Datadog's office. The theme was "self-improving agents", there were a handful of corporate sponsors. 
 
